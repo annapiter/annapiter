@@ -39,7 +39,7 @@ A multi-phase geospatial + machine learning project analyzing seismic exposure, 
 - Engineered fault metrics and county-level seismic risk scores  
 - Built a *composite underinsurance index*  
 - Trained XGBoost models (R² = 0.53)  
-- Estimated *$64M+ in statewide underinsurance*  
+- Estimated *$60M+ in statewide underinsurance*  
 - Delivered Folium maps + Tableau dashboards  
 📁 **Repo:** **https://github.com/annapiter/earthquake-insurance-analysis**  
 
