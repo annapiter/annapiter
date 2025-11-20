@@ -6,8 +6,6 @@ I’m a Data Scientist focused on turning complex spatial, demographic, and insu
 
 I enjoy building end-to-end workflows — from data ingestion and feature engineering to modeling, visualization, and narrative insights.
 
----
-
 ## 🔍 What I Do
 - **Geospatial & Risk Modeling**  
   Earthquake exposure, fault-line metrics, housing vulnerability, insurance coverage gaps.
@@ -24,8 +22,6 @@ I enjoy building end-to-end workflows — from data ingestion and feature engine
 - **Data Engineering Lite**  
   ETL pipelines, API integrations (USGS, Census), automated data workflows.
 
----
-
 ## 🧰 Tech Stack  
 **Languages:** Python, SQL  
 **Libraries:** Pandas, NumPy, GeoPandas, scikit-learn, XGBoost, SHAP  
@@ -33,8 +29,6 @@ I enjoy building end-to-end workflows — from data ingestion and feature engine
 **Visualization:** Tableau, Plotly, Seaborn, Matplotlib  
 **Data:** Census/ACS, USGS Earthquakes, FEMA, NAIC, Redfin, SpaceX API  
 **Other:** Git, Jupyter, REST APIs, ETL workflows  
-
----
 
 ## 📂 Featured Projects
 
@@ -49,8 +43,6 @@ A multi-phase geospatial + machine learning project analyzing seismic exposure, 
 - Delivered Folium maps + Tableau dashboards  
 📁 **Repo:** https://github.com/annapiter/earthquake-insurance-analysis  
 
----
-
 ### 🚀 **SpaceX Falcon 9 Landing Prediction**
 IBM Data Science Capstone project applying **API integration, web scraping, SQL, ML models, and Plotly Dash** to predict Falcon 9 first-stage landing success.  
 **Highlights:**  
@@ -60,18 +52,12 @@ IBM Data Science Capstone project applying **API integration, web scraping, SQL,
 - Visualized launch sites and outcomes with Folium  
 📁 **Repo:** https://github.com/annapiter/spacex-falcon9-landing-prediction
 
----
-
 ### 🏠 **Redfin Property Data Scraper**
 Python scraper for real estate listings across CA counties.  
 Creates structured datasets for neighborhood pricing, demand patterns, and long-term valuation trends.  
 📁 **Repo:**   
 
----
-
 ## 📫 Connect with Me  
 **LinkedIn:** https://www.linkedin.com/in/annapiter  
-
----
 
 ⭐ *Always learning, building, and exploring how data science can drive smarter decisions in risk, insurance, housing, and spatial analytics.*
