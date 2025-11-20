@@ -58,6 +58,6 @@ Creates structured datasets for neighborhood pricing, demand patterns, and long-
 📁 **Repo:**   
 
 ## 📫 Connect with Me  
-**LinkedIn:** https://www.linkedin.com/in/annapiter  
+**LinkedIn:** **https://www.linkedin.com/in/annapiter**  
 
 ⭐ *Always learning, building, and exploring how data science can drive smarter decisions in risk, insurance, housing, and spatial analytics.*
