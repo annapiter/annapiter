@@ -41,7 +41,7 @@ A multi-phase geospatial + machine learning project analyzing seismic exposure, 
 - Trained XGBoost models (R² = 0.53)  
 - Estimated *$64M+ in statewide underinsurance*  
 - Delivered Folium maps + Tableau dashboards  
-📁 **Repo:** https://github.com/annapiter/earthquake-insurance-analysis  
+📁 **Repo:** **https://github.com/annapiter/earthquake-insurance-analysis**  
 
 ### 🚀 **SpaceX Falcon 9 Landing Prediction**
 IBM Data Science Capstone project applying **API integration, web scraping, SQL, ML models, and Plotly Dash** to predict Falcon 9 first-stage landing success.  
@@ -50,7 +50,7 @@ IBM Data Science Capstone project applying **API integration, web scraping, SQL,
 - Trained Logistic Regression, SVM, Decision Tree, and KNN  
 - Built an interactive **Plotly Dash dashboard**  
 - Visualized launch sites and outcomes with Folium  
-📁 **Repo:** https://github.com/annapiter/spacex-falcon9-landing-prediction
+📁 **Repo:** **https://github.com/annapiter/spacex-falcon9-landing-prediction**
 
 ### 🏠 **Redfin Property Data Scraper**
 Python scraper for real estate listings across CA counties.  
