@@ -31,7 +31,7 @@ I enjoy building end-to-end workflows — from data ingestion and feature engine
 **Libraries:** Pandas, NumPy, GeoPandas, scikit-learn, XGBoost, SHAP  
 **GIS Tools:** Folium, Shapely, GeoPandas  
 **Visualization:** Tableau, Plotly, Seaborn, Matplotlib  
-**Data:** Census/ACS, USGS Earthquakes, FEMA, NAIC, Redfin  
+**Data:** Census/ACS, USGS Earthquakes, FEMA, NAIC, Redfin, SpaceX API  
 **Other:** Git, Jupyter, REST APIs, ETL workflows  
 
 ---
@@ -47,14 +47,25 @@ A multi-phase geospatial + machine learning project analyzing seismic exposure, 
 - Trained XGBoost models (R² = 0.53)  
 - Estimated *$64M+ in statewide underinsurance*  
 - Delivered Folium maps + Tableau dashboards  
-📁 **Repo:** *Add link here*  
+📁 **Repo:** https://github.com/annapiter/earthquake-insurance-analysis  
+
+---
+
+### 🚀 **SpaceX Falcon 9 Landing Prediction**
+IBM Data Science Capstone project applying **API integration, web scraping, SQL, ML models, and Plotly Dash** to predict Falcon 9 first-stage landing success.  
+**Highlights:**  
+- Integrated API, Wikipedia scraping, and SQL data  
+- Trained Logistic Regression, SVM, Decision Tree, and KNN  
+- Built an interactive **Plotly Dash dashboard**  
+- Visualized launch sites and outcomes with Folium  
+📁 **Repo:** https://github.com/annapiter/spacex-falcon9-landing-prediction
 
 ---
 
 ### 🏠 **Redfin Property Data Scraper**
 Python scraper for real estate listings across CA counties.  
 Creates structured datasets for neighborhood pricing, demand patterns, and long-term valuation trends.  
-📁 **Repo:** *Add link here*  
+📁 **Repo:**   
 
 ---
 
